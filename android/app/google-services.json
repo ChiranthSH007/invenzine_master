@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763598038318",
+    "firebase_url": "https://techmag-77e4a.firebaseio.com",
+    "project_id": "techmag-77e4a",
+    "storage_bucket": "techmag-77e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763598038318:android:8c327f44fcec24936606bf",
+        "android_client_info": {
+          "package_name": "com.example.invenzine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763598038318-r0pdkrr35l7sm8oilmgip4fg4cd2acej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invenzine",
+            "certificate_hash": "4f3595b9b0a2e818c9bf828a525d7db0afe3bc6d"
+          }
+        },
+        {
+          "client_id": "763598038318-b9fbarl3a7v1rthgh1ettl5l25d98jh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRKDI3eYfbXgpI-maj3YMZaygmp75vEzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763598038318-b9fbarl3a7v1rthgh1ettl5l25d98jh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
